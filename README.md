@@ -1,5 +1,5 @@
 # NeuralEcho
-Proyecto desarrollado por el equipo 5 para la concentración: Inteligencia artificial avanzada para la ciencia de datos (Grupo 502) <br />
+Proyecto desarrollado por el equipo cinco para la concentración: Inteligencia artificial avanzada para la ciencia de datos (Grupo 502) <br />
 Integrantes: <br />
 A01633784 | Alejandro Pizarro Chávez <br />
 A01634154 | Diego Rosas <br />
