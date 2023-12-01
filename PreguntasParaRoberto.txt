@@ -1,0 +1,6 @@
+Primera sesión:
+ 1. En las predicciones de los modelos las máscaras salen borrosas (blurred). ¿Este comportamiento es esperado? ¿La red debería de ser capaz de generar las máscaras claras o hay que aplicar un threshold al final para binarizarlas?
+ 2. ¿Es recomendable utilizar técnicas de data augmentation? Y si es asi cuales serían las más recomendadas?
+
+Segunda sesión
+ 1. ¿Cuánto es una diferencia aceptable entre nuestra accuracy y el dice score? Actualmente nuestra diferencia es aproximadamente de ±7. ¿Se espera que sea menor? 
